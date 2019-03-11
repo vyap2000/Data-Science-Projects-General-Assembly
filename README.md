@@ -1,1 +1,1 @@
-# DSI-GA
+# DATA SCIENCE IMMERSIVE - Projects @ GA
