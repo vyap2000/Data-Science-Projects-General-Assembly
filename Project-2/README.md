@@ -19,9 +19,9 @@
 #### Get used to googling for code! You will use it every single day as a data scientist, especially for visualization and plotting.
 
 ## Requirements
-#### - Materials must be in a clearly commented Jupyter notebook.
+#### Materials must be in a clearly commented Jupyter notebook.
 
-#### - Students should demonstrate the ability to:
+#### Students should demonstrate the ability to:
 
 ####      -   Analyze diverse datasets & explicitly state your assumptions.
 ####      -   Form hypotheses and justify them with solid statistical testing in NumPy.
