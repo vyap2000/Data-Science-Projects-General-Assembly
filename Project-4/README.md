@@ -70,7 +70,7 @@
 
 ## Suggestions for Getting Started
 
-#### 1. Collect data from Indeed.com (or another aggregator) on data-related jobs to use in predicting salary trends for your analysis.
+#### 1. Collect data from www.mycareersfuture.sg (or another aggregator) on data-related jobs to use in predicting salary trends for your analysis.
 ####        - Select and parse data from at least 1000 postings for jobs, potentially from multiple location searches.
 #### 2. Find out what factors most directly impact salaries (e.g. title, location, department, etc).
 ####        - Test, validate, and describe your models. What factors predict salary category? How do your models perform?
