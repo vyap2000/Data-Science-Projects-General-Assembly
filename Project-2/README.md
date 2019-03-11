@@ -16,8 +16,6 @@
 
 #### This lab includes a variety of plotting problems. Much of the plotting code will be left up to you to find either in the lecture notes, or if not there, online. There are massive amounts of code snippets either in documentation or sites like Stack Overflow that have almost certainly done what you are trying to do.
 
-#### Get used to googling for code! You will use it every single day as a data scientist, especially for visualization and plotting.
-
 ## Requirements
 #### Materials must be in a clearly commented Jupyter notebook.
 
