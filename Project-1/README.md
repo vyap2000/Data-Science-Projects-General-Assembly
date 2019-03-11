@@ -1,4 +1,4 @@
-# Project 1 - Python Programming Skill for Data Analysis
+# Project 1 - Python Programming
 
 ## Title:  Building "Pokemon Stay"
 
