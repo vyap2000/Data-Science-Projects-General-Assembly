@@ -1,8 +1,8 @@
-## Project 4
+# Project 4
 
-### Title: Web Scraping Job Postings 
+## Title: Web Scraping Job Postings 
 
-### Business Case:
+## Business Case:
 
 #### You're working as a data scientist for a contracting firm that's rapidly expanding. Now that they have their most valuable employee (you!), they need to leverage data to win more contracts. Your firm offers technology and scientific solutions and wants to be competitive in the hiring market. Your principal has two main objectives:
 
@@ -16,11 +16,11 @@
 ### Goal: 
 #### Scrape your own data from a job aggregation tool like Indeed.com in order to collect the data to best answer these two questions.
 
-### Directions
+## Directions
 #### In this project you will be leveraging a variety of skills. The first will be to use the web-scraping and/or API techniques you've learned to collect data on data jobs from Indeed.com or another aggregator. Once you have collected and cleaned the data, you will use it to answer the two questions described above.
 
 
-### QUESTION 1: Factors that impact salary
+## QUESTION 1: Factors that impact salary
 
 #### To predict salary you will be building either a classification or regression model, using features like the location, title, and summary of the job. If framing this as a regression problem, you will be estimating the listed salary amounts. You may instead choose to frame this as a classification problem, in which case you will create labels from these salaries (high vs. low salary, for example) according to thresholds (such as median salary).
 
@@ -34,7 +34,7 @@
 #### Whatever you decide to use, the most important thing is to justify your choices and interpret your results. Communication of your process is key. Note that most listings DO NOT come with salary information. You'll need to able to extrapolate or predict the expected salaries for these listings.
 
 
-### QUESTION 2: Factors that distinguish job category
+## QUESTION 2: Factors that distinguish job category
 
 #### Using the job postings you scraped for part 1 (or potentially new job postings from a second round of scraping), identify features in the data related to job postings that can distinguish job titles from each other. There are a variety of interesting ways you can frame the target variable, for example:
 
@@ -45,11 +45,11 @@
 #### You may end up making multiple classification models to tackle different questions. Be sure to clearly explain your hypotheses and framing, any feature engineering, and what your target variables are. The type of classification model you choose is up to you. Be sure to interpret your results and evaluate your models' performance.
 
 
-### BONUS PROBLEM
+## BONUS PROBLEM
 #### Your boss would rather tell a client incorrectly that they would get a lower salary job than tell a client incorrectly that they would get a high salary job. Adjust one of your models to ease his mind, and explain what it is doing and any tradeoffs. Plot the ROC curve.
 
 
-### Requirements
+## Requirements
 
 #### 1. Scrape and prepare your own data.
 #### 2. Create and compare at least two models for each section. One of the two models should be a decision tree or ensemble model. 
@@ -67,7 +67,8 @@
 #### 5. Answer the salary discussion by using your model to explain the tradeoffs between detecting high vs low salary positions.
 #### 6. Convert your executive summary into a public blog post of at least 500 words, in which you document your approach in a tutorial for other aspiring data scientists. Link to this in your notebook.
 
-### Suggestions for Getting Started
+
+## Suggestions for Getting Started
 
 #### 1. Collect data from Indeed.com (or another aggregator) on data-related jobs to use in predicting salary trends for your analysis.
 ####        - Select and parse data from at least 1000 postings for jobs, potentially from multiple location searches.
