@@ -6,9 +6,10 @@
 ###  Project 4:  Web Scraping Job Posting
 ###  Capstone Project: Skytrax Airline Customer Satisfaction Analytics
 ###  Assignments & Workshops
+###  https://www.imda.gov.sg/imtalent/training-and-courses/ga-data-science-immersive
 #
 #
 #
-### My Resume 
-#### https://www.dropbox.com/s/3plz2wsepoo50wh/Vincent_Yap%20Resume%202019.pdf?dl=0
+#
+### My Resume: https://www.dropbox.com/s/3plz2wsepoo50wh/Vincent_Yap%20Resume%202019.pdf?dl=0
 
