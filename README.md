@@ -6,7 +6,7 @@
 ###  Project 4:  Web Scraping Job Posting
 ###  Capstone Project: Skytrax Airline Customer Satisfaction Analytics
 ###  Assignments & Workshops
-###  https://www.imda.gov.sg/imtalent/training-and-courses/ga-data-science-immersive
+###  Course Reference: https://www.imda.gov.sg/imtalent/training-and-courses/ga-data-science-immersive
 #
 #
 #
