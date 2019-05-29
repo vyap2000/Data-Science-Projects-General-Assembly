@@ -5,8 +5,9 @@
 ###  Project 3:  Regression & Classification With Ames Housing Data
 ###  Project 4:  Web Scraping Job Posting
 ###  Capstone Project: Skytrax Airline Customer Satisfaction Analytics
-###  Assignments & Workshops
-###  Course Reference: https://www.imda.gov.sg/imtalent/training-and-courses/ga-data-science-immersive
+###  Assignments
+###  Course Reference: 
+https://www.imda.gov.sg/imtalent/training-and-courses/ga-data-science-immersive
 #
 #
 #
